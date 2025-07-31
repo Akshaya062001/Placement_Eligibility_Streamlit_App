@@ -4,5 +4,5 @@ db_config = {
     'password': 'QvInVbR9IUN1hgso',
     'database': 'Student_Info',
     'port': 4000,
-    'ssl_ca': 'C:\Users\naksh\OneDrive\Documents\GitHub\Placement_Eligibility_Streamlit_App\Certs\isrgrootx1.pem'
+    'ssl_ca': r'C:\Users\naksh\OneDrive\Documents\GitHub\Placement_Eligibility_Streamlit_App\Certs\isrgrootx1.pem'
 }
